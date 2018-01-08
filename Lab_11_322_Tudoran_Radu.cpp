@@ -21,6 +21,9 @@ public:
     vector <T> a;
 };
 
+//add add
+//add
+
 template <class T> bool Stack<T>::Empty() const
 {
     return (a.empty());
