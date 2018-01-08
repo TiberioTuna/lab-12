@@ -1,3 +1,5 @@
+//Am inteles ca e bine
+//Sa adaugi comentarii
 #include <iostream>
 #include <vector>
 #include <stdio.h>
