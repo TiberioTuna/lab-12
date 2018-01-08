@@ -22,7 +22,8 @@ public:
 };
 
 //add add
-//add
+
+//addaddd
 
 template <class T> bool Stack<T>::Empty() const
 {
