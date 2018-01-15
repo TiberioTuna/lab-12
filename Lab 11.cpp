@@ -1,11 +1,10 @@
-//Am inteles ca e bine
-//Sa adaugi comentarii
+
 #include <iostream>
 #include <vector>
 #include <stdio.h>
 
 using namespace std;
-
+//Aceasta este o schimbare
 template <typename T>
 class Stack
 {
