@@ -1,9 +1,7 @@
-#include <iostream>
-#include <vector>
-#include <stdio.h>
+
 
 using namespace std;
-
+// Aceasta este o modificare
 template <typename T>
 class Stack
 {
