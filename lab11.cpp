@@ -1,5 +1,5 @@
 
-
+//schimbare noua
 using namespace std;
 // Aceasta este o modificare
 template <typename T>
