@@ -5,6 +5,7 @@
 
 using namespace std;
 //Aceasta este o schimbare
+//Aceasta este o noua schimbare
 template <typename T>
 class Stack
 {
