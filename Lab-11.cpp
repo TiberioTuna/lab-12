@@ -32,7 +32,8 @@ public:
 
     vector <T> a;
 };
-
+//SCHIMBARE INTR-un branch nou
+//Inca un comentariu
 int main()
 {
     Stack <int> s_int;
